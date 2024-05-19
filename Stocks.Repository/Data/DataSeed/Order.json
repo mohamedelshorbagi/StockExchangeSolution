@@ -1,0 +1,23 @@
+[
+    {
+      
+        "StockSymbol": "AAPL",
+        "OrderType": "Buy",
+        "Quantity": 100,
+        "CreationTime": "2024-05-16T10:00:00Z"
+    },
+    {
+       
+        "StockSymbol": "GOOGL",
+        "OrderType": "Sell",
+        "Quantity": 50,
+        "CreationTime": "2024-05-16T10:30:00Z"
+    },
+    {
+      
+        "StockSymbol": "MSFT",
+        "OrderType": "Buy",
+        "Quantity": 200,
+        "CreationTime": "2024-05-16T11:00:00Z"
+    }
+]

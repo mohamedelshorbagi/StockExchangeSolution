@@ -1,0 +1,32 @@
+[
+  {
+    "StockId": 1,
+    "Price": 151.00,
+    "Timestamp": "2024-05-15T12:00:00Z",
+    "Symbol": "AAPL"
+  },
+  {
+    "StockId": 2,
+    "Price": 2520.00,
+    "Timestamp": "2024-05-15T12:00:00Z",
+    "Symbol": "GOOGL"
+  },
+  {
+    "StockId": 3,
+    "Price": 305.25,
+    "Timestamp": "2024-05-15T12:00:00Z",
+    "Symbol": "MSFT"
+  },
+  {
+    "StockId": 4,
+    "Price": 3180.50,
+    "Timestamp": "2024-05-15T12:00:00Z",
+    "Symbol": "AMZN"
+  },
+  {
+    "StockId": 5,
+    "Price": 695.50,
+    "Timestamp": "2024-05-15T12:00:00Z",
+    "Symbol": "TSLA"
+  }
+]

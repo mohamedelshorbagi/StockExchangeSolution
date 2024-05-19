@@ -1,0 +1,32 @@
+[
+    {
+        
+        "Symbol": "AAPL",
+        "CurrentPrice": 150.25,
+        "Timestamp": "2024-05-16T08:00:00Z"
+    },
+    {
+        
+        "Symbol": "GOOGL",
+        "CurrentPrice": 2500.75,
+        "Timestamp": "2024-05-16T08:00:00Z"
+    },
+    {
+        
+        "Symbol": "MSFT",
+        "CurrentPrice": 300.50,
+        "Timestamp": "2024-05-16T08:00:00Z"
+    },
+    {
+        
+        "Symbol": "AMZN",
+        "CurrentPrice": 3200.00,
+        "Timestamp": "2024-05-16T08:00:00Z"
+    },
+    {
+        
+        "Symbol": "TSLA",
+        "CurrentPrice": 700.00,
+        "Timestamp": "2024-05-16T08:00:00Z"
+    }
+]
